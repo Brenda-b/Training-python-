@@ -5,3 +5,5 @@ def busqueda(palabra_a_buscar, texto):
             print(buscar)
       else:
             print("cadena no encontrada")
+
+            
